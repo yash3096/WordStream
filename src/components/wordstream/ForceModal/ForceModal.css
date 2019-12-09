@@ -1,0 +1,9 @@
+.closeBtn{
+    float: right;
+}
+
+.modalHeader{
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+}
